@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:noNamespaceSchemaLocation="ota.xsd">
-	<Stable>
-		<oneplus3>
-				<Filename></Filename>
-					<BuildsUrl 
-						id="builds" 
-						title="Latest 
-Stable/Test Build" 
-						description="Download 
-Latest Build (Test/Stable) ">
+<Stable>
+	<oneplus3>
+		<Filename>ResurrectionRemix-M-v5.7.1-20160712-oneplus3.zip</Filename>
+			<BuildsUrl 
+				id="builds" 
+				title="Latest Stable/Test Build" 
+				description="Download Latest Build (Test/Stable) ">
+				https://www.androidfilehost.com/?fid=24591000424946649		
+			</BuildsUrl>				
+			<OfficialUrl
+				id="official"
+				title="Latest Stable Build"
+				description="Download Latest Stable Build">
+				https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/oneplus3/ResurrectionRemix-M-v5.7.1-20160711-oneplus3.zip
+			</OfficialUrl>
+			<NamansUrl
+				id="naman"
+				title="Latest by Naman Bhalla"
+				description="Download Latest Test Build by @Naman Bhalla">
+				https://www.androidfilehost.com/?fid=24591000424946649		
+			</NamansUrl>
+			<TakersUrl
+				id="taker"
+				title="Latest by Taker18"
+				description="Download Latest Test Build by @Taker18">
 						
-					</BuildsUrl>				
-					<OfficialUrl
-						id="official"
-						title="Latest Stable 
-Build"
-						description="Download 
-Latest Stable Build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/oneplus3/ResurrectionRemix-M-v5.7.1-20160711-oneplus3.zip</OfficialUrl>
-					<NamansUrl
-						id="naman"
-						title="Latest by Naman 
-Bhalla"
-						description="Download 
-Latest Test Build by @Naman Bhalla">
+			</TakersUrl>
+			<Sunsettrack4Url
+				id="sunsettrack4"
+				title="Latest by sunsettrack4"
+				description="Download Latest Test Build by @sunsettrack4">
 						
-					</NamansUrl>
-					<TakersUrl
-						id="taker"
-						title="Latest by 
-Taker18"
-						description="Download 
-Latest Test Build by @Taker18">
-						
-					</TakersUrl>
-					<Sunsettrack4Url
-						id="sunsettrack4"
-						title="Latest by 
-sunsettrack4"
-						description="Download 
-Latest Test Build by @sunsettrack4">
-						
-					</Sunsettrack4Url>					
-					<XDAThreadURL
-						id="xda"
-						title="XDA Thread"
-						description="Visit Our 
-XDA Thread">
-						
-http://forum.xda-developers.com/oneplus-3/development/rom-t3403365/
-					</XDAThreadURL>
-					<RRChangelogUrl
-						id="changelog"
-						title="Resurrection 
-Remix Changelog"
-						description="View ROM 
-Changelog (Not Device Related 
-Stuff">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</RRChangelogUrl>
-					<OpenGappsUrl
-						id="open_gapps"
-						title="OpenGApps"
-						description="Download 
-latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-					<BanksGappsUrl
-						id="banks_gapps"
-						title="BaNkS Dynamic 
-GApps"
-						description="Download 
-BaNkS latest 
-GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
+			</Sunsettrack4Url>					
+			<XDAThreadURL
+				id="xda"
+				title="XDA Thread"
+				description="Visit Our XDA Thread">
+				http://forum.xda-developers.com/oneplus-3/development/rom-t3403365/
+			</XDAThreadURL>
+			<RRChangelogUrl
+				id="changelog"
+				title="Resurrection Remix Changelog"
+				description="View ROM Changelog (Not Device Related Stuff">
+				https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn
+				</RRChangelogUrl>
+			<OpenGappsUrl
+				id="open_gapps"
+				title="OpenGApps"
+				description="Download latest OpenGApps">
+				http://opengapps.org
+			</OpenGappsUrl>
+			<BanksGappsUrl
+				id="banks_gapps"
+				title="BaNkS Dynamic GApps"
+				description="Download BaNkS latest GApps">
+				http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip
+			</BanksGappsUrl>
 		</oneplus3>
 	 </Stable>
 </SlimOTA>
