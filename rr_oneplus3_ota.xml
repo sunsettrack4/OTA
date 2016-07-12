@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:noNamespaceSchemaLocation="ota.xsd">
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 	<oneplus3>
 		<Filename>ResurrectionRemix-M-v5.7.1-20160712-oneplus3.zip</Filename>
