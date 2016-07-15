@@ -30,7 +30,7 @@
 			<RRChangelogUrl
 				id="changelog"
 				title="Resurrection Remix Changelog"
-				description="View ROM Changelog (Not Device Related Stuff">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</RRChangelogUrl>
+				description="View ROM Changelog (Not Device Related Stuff)">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</RRChangelogUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="OpenGApps"
@@ -40,5 +40,28 @@
 				title="BaNkS Dynamic GApps"
 				description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 		</oneplus3>
+		<slte>
+ 			<Filename>ResurrectionRemix-M-v5.7.1-20160711-slte.zip</Filename>
+ 			<RomUrl
+ 				id="rom"
+ 				title="Rom"
+ 				description="Download latest ResurrectionRemix build">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/slte/ResurrectionRemix-M-v5.7.1-20160711-slte.zip</RomUrl>
+ 			<ChangelogUrl
+ 				id="changelog"
+ 				title="Changelog"
+ 				description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+ 			<SlimGappsUrl
+ 				id="gapps"
+ 				title="GApps"
+ 				description="Download latest OpenGApps">http://opengapps.org/</SlimGappsUrl>
+ 			<YouTubeUrl
+ 				id="youtube"
+ 				title="YouTube"
+ 				description="embudu 47 on YouTube">https://goo.gl/XfFy6J</YouTubeUrl>
+ 			<XDAUrl
+ 				id="xda"
+ 				title="XDA"
+ 				description="Visit official XDA thread">http://forum.xda-developers.com/galaxy-alpha/development/rom-resurrectionremix-v5-6-0-t3277521</XDAUrl>
+ 		</slte>
 	 </Stable>
 </SlimOTA>
