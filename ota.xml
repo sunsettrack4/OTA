@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 	<oneplus3>
-		<Filename>ResurrectionRemix-M-v5.7.1-20160717-oneplus3-Taker18.zip</Filename>
+		<Filename>ResurrectionRemix-M-v5.7.1-20160718-oneplus3-sunsettrack4.zip</Filename>
 			<BuildsUrl 
 				id="builds" 
 				title="Latest Stable/Test Build" 
-				description="Download Latest Build (Test/Stable)">https://www.androidfilehost.com/?fid=24591020540824511</BuildsUrl>				
+				description="Download Latest Build (Test/Stable)">https://www.androidfilehost.com/?fid=24591000424948318</BuildsUrl>				
 			<OfficialUrl
 				id="official"
 				title="Latest Stable Build"
@@ -22,7 +22,7 @@
 			<Sunsettrack4Url
 				id="sunsettrack4"
 				title="Latest by sunsettrack4"
-				description="Download Latest Test Build by @sunsettrack4">https://www.androidfilehost.com/?fid=24591000424947690</Sunsettrack4Url>					
+				description="Download Latest Test Build by @sunsettrack4">https://www.androidfilehost.com/?fid=24591000424948318</Sunsettrack4Url>					
 			<XDAThreadURL
 				id="xda"
 				title="XDA Thread"
